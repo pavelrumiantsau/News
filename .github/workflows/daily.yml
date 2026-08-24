@@ -1,0 +1,54 @@
+name: Rebuild world news
+
+on:
+  schedule:
+    # 05:10 UTC daily — early enough that it is fresh when you open it in Europe.
+    # Cron on GitHub is best-effort and can lag by a few minutes under load.
+    - cron: "10 5 * * *"
+  workflow_dispatch:        # lets you trigger a rebuild by hand from the Actions tab
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: world-news
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect headlines
+        run: python3 collect.py --workers 6
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "world-desk-bot"
+          git config user.email "actions@github.com"
+          git add docs/news.json
+          if git diff --staged --quiet; then
+            echo "No change in news.json"
+          else
+            git commit -m "news: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v4
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}

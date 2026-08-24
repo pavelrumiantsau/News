@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World Desk — daily news, every country</title>
+<meta name="description" content="One top-headlines-per-country digest, rebuilt daily from trusted, free-to-read sources.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌍</text></svg>">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>World&nbsp;Desk</h1>
+      <p class="sub" id="sub">loading…</p>
+    </div>
+    <div class="controls">
+      <input id="q" type="search" placeholder="Filter countries or headlines…" autocomplete="off" spellcheck="false">
+      <div class="chips" id="regions"></div>
+      <div class="toggles">
+        <label><input type="checkbox" id="onlyNews"> Only countries with news today</label>
+        <button id="expandAll" type="button">Expand all</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="worldWrap" class="world">
+    <h2>Across the world today</h2>
+    <ol id="world" class="worldlist"></ol>
+  </section>
+
+  <section id="countries"></section>
+
+  <p id="empty" class="empty" hidden>Nothing matches that filter.</p>
+</main>
+
+<footer class="wrap foot">
+  <p><strong id="statline"></strong></p>
+  <p>Headlines are collected from a fixed allowlist of international wires, public-service
+     broadcasters and established national outlets — all free to read. Paywalled publishers,
+     state propaganda outlets and non-news sites are excluded by rule, not by judgement call.
+     Every link opens the original publisher.</p>
+  <p>Countries marked <span class="tag stale">carried forward</span> had no fresh qualifying
+     coverage in this run; their most recent story is shown instead. That is information too —
+     it means nothing widely reported happened there.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

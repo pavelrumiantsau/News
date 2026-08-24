@@ -1,0 +1,3144 @@
+[
+ {
+  "iso": "AF",
+  "name": "Afghanistan",
+  "capital": "Kabul",
+  "demonym": "Afghan",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Afghanistan",
+   "Kabul",
+   "Afghan",
+   "Taliban"
+  ]
+ },
+ {
+  "iso": "AL",
+  "name": "Albania",
+  "capital": "Tirana",
+  "demonym": "Albanian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Albania",
+   "Tirana",
+   "Albanian",
+   "Rama"
+  ]
+ },
+ {
+  "iso": "DZ",
+  "name": "Algeria",
+  "capital": "Algiers",
+  "demonym": "Algerian",
+  "bloc": "africa_n",
+  "region": "Africa",
+  "terms": [
+   "Algeria",
+   "Algiers",
+   "Algerian"
+  ]
+ },
+ {
+  "iso": "AD",
+  "name": "Andorra",
+  "capital": "Andorra la Vella",
+  "demonym": "Andorran",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Andorra",
+   "Andorra la Vella",
+   "Andorran"
+  ]
+ },
+ {
+  "iso": "AO",
+  "name": "Angola",
+  "capital": "Luanda",
+  "demonym": "Angolan",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Angola",
+   "Luanda",
+   "Angolan"
+  ]
+ },
+ {
+  "iso": "AG",
+  "name": "Antigua and Barbuda",
+  "capital": "St John's",
+  "demonym": "Antiguan",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Antigua and Barbuda",
+   "St John's",
+   "Antiguan",
+   "Antigua",
+   "Barbuda"
+  ]
+ },
+ {
+  "iso": "AR",
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "demonym": "Argentine",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Argentina",
+   "Buenos Aires",
+   "Argentine",
+   "Argentinian",
+   "Milei"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "AR",
+   "ceid": "AR:es"
+  }
+ },
+ {
+  "iso": "AM",
+  "name": "Armenia",
+  "capital": "Yerevan",
+  "demonym": "Armenian",
+  "bloc": "caucasus",
+  "region": "Asia",
+  "terms": [
+   "Armenia",
+   "Yerevan",
+   "Armenian"
+  ]
+ },
+ {
+  "iso": "AU",
+  "name": "Australia",
+  "capital": "Canberra",
+  "demonym": "Australian",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Australia",
+   "Canberra",
+   "Australian",
+   "Sydney",
+   "Melbourne",
+   "Albanese"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "AU",
+   "ceid": "AU:en"
+  }
+ },
+ {
+  "iso": "AT",
+  "name": "Austria",
+  "capital": "Vienna",
+  "demonym": "Austrian",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Austria",
+   "Vienna",
+   "Austrian"
+  ],
+  "edition": {
+   "hl": "de",
+   "gl": "AT",
+   "ceid": "AT:de"
+  }
+ },
+ {
+  "iso": "AZ",
+  "name": "Azerbaijan",
+  "capital": "Baku",
+  "demonym": "Azerbaijani",
+  "bloc": "caucasus",
+  "region": "Asia",
+  "terms": [
+   "Azerbaijan",
+   "Baku",
+   "Azerbaijani",
+   "Azeri",
+   "Nagorno-Karabakh"
+  ]
+ },
+ {
+  "iso": "BS",
+  "name": "Bahamas",
+  "capital": "Nassau",
+  "demonym": "Bahamian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Bahamas",
+   "Nassau",
+   "Bahamian"
+  ]
+ },
+ {
+  "iso": "BH",
+  "name": "Bahrain",
+  "capital": "Manama",
+  "demonym": "Bahraini",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Bahrain",
+   "Manama",
+   "Bahraini"
+  ]
+ },
+ {
+  "iso": "BD",
+  "name": "Bangladesh",
+  "capital": "Dhaka",
+  "demonym": "Bangladeshi",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Bangladesh",
+   "Dhaka",
+   "Bangladeshi",
+   "Yunus"
+  ],
+  "edition": {
+   "hl": "bn",
+   "gl": "BD",
+   "ceid": "BD:bn"
+  }
+ },
+ {
+  "iso": "BB",
+  "name": "Barbados",
+  "capital": "Bridgetown",
+  "demonym": "Barbadian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Barbados",
+   "Bridgetown",
+   "Barbadian",
+   "Bajan"
+  ]
+ },
+ {
+  "iso": "BY",
+  "name": "Belarus",
+  "capital": "Minsk",
+  "demonym": "Belarusian",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Belarus",
+   "Minsk",
+   "Belarusian",
+   "Lukashenko"
+  ],
+  "edition": {
+   "hl": "ru",
+   "gl": "BY",
+   "ceid": "RU:ru"
+  }
+ },
+ {
+  "iso": "BE",
+  "name": "Belgium",
+  "capital": "Brussels",
+  "demonym": "Belgian",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Belgium",
+   "Brussels",
+   "Belgian"
+  ],
+  "edition": {
+   "hl": "fr",
+   "gl": "BE",
+   "ceid": "BE:fr"
+  }
+ },
+ {
+  "iso": "BZ",
+  "name": "Belize",
+  "capital": "Belmopan",
+  "demonym": "Belizean",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Belize",
+   "Belmopan",
+   "Belizean"
+  ]
+ },
+ {
+  "iso": "BJ",
+  "name": "Benin",
+  "capital": "Porto-Novo",
+  "demonym": "Beninese",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Benin",
+   "Porto-Novo",
+   "Beninese",
+   "Cotonou"
+  ]
+ },
+ {
+  "iso": "BT",
+  "name": "Bhutan",
+  "capital": "Thimphu",
+  "demonym": "Bhutanese",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Bhutan",
+   "Thimphu",
+   "Bhutanese"
+  ]
+ },
+ {
+  "iso": "BO",
+  "name": "Bolivia",
+  "capital": "La Paz",
+  "demonym": "Bolivian",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Bolivia",
+   "La Paz",
+   "Bolivian",
+   "Sucre"
+  ]
+ },
+ {
+  "iso": "BA",
+  "name": "Bosnia and Herzegovina",
+  "capital": "Sarajevo",
+  "demonym": "Bosnian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Bosnia and Herzegovina",
+   "Sarajevo",
+   "Bosnian",
+   "Republika Srpska",
+   "Dodik",
+   "Bosnia"
+  ]
+ },
+ {
+  "iso": "BW",
+  "name": "Botswana",
+  "capital": "Gaborone",
+  "demonym": "Motswana",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Botswana",
+   "Gaborone",
+   "Motswana",
+   "Batswana"
+  ]
+ },
+ {
+  "iso": "BR",
+  "name": "Brazil",
+  "capital": "Brasilia",
+  "demonym": "Brazilian",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Brazil",
+   "Brasilia",
+   "Brazilian",
+   "Brasília",
+   "Rio de Janeiro",
+   "Sao Paulo",
+   "São Paulo",
+   "Lula"
+  ],
+  "edition": {
+   "hl": "pt",
+   "gl": "BR",
+   "ceid": "BR:pt-419"
+  }
+ },
+ {
+  "iso": "BN",
+  "name": "Brunei",
+  "capital": "Bandar Seri Begawan",
+  "demonym": "Bruneian",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Brunei",
+   "Bandar Seri Begawan",
+   "Bruneian"
+  ]
+ },
+ {
+  "iso": "BG",
+  "name": "Bulgaria",
+  "capital": "Sofia",
+  "demonym": "Bulgarian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Bulgaria",
+   "Sofia",
+   "Bulgarian"
+  ],
+  "edition": {
+   "hl": "bg",
+   "gl": "BG",
+   "ceid": "BG:bg"
+  }
+ },
+ {
+  "iso": "BF",
+  "name": "Burkina Faso",
+  "capital": "Ouagadougou",
+  "demonym": "Burkinabe",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Burkina Faso",
+   "Ouagadougou",
+   "Burkinabe",
+   "Burkinabè"
+  ]
+ },
+ {
+  "iso": "BI",
+  "name": "Burundi",
+  "capital": "Gitega",
+  "demonym": "Burundian",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Burundi",
+   "Gitega",
+   "Burundian",
+   "Bujumbura"
+  ]
+ },
+ {
+  "iso": "CV",
+  "name": "Cabo Verde",
+  "capital": "Praia",
+  "demonym": "Cape Verdean",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Cabo Verde",
+   "Praia",
+   "Cape Verdean",
+   "Cape Verde"
+  ]
+ },
+ {
+  "iso": "KH",
+  "name": "Cambodia",
+  "capital": "Phnom Penh",
+  "demonym": "Cambodian",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Cambodia",
+   "Phnom Penh",
+   "Cambodian",
+   "Hun Manet"
+  ]
+ },
+ {
+  "iso": "CM",
+  "name": "Cameroon",
+  "capital": "Yaounde",
+  "demonym": "Cameroonian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Cameroon",
+   "Yaounde",
+   "Cameroonian",
+   "Yaoundé",
+   "Douala",
+   "Ambazonia"
+  ],
+  "edition": {
+   "hl": "fr",
+   "gl": "CM",
+   "ceid": "CM:fr"
+  }
+ },
+ {
+  "iso": "CA",
+  "name": "Canada",
+  "capital": "Ottawa",
+  "demonym": "Canadian",
+  "bloc": "northam",
+  "region": "Americas",
+  "terms": [
+   "Canada",
+   "Ottawa",
+   "Canadian",
+   "Toronto",
+   "Quebec",
+   "Carney"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "CA",
+   "ceid": "CA:en"
+  }
+ },
+ {
+  "iso": "CF",
+  "name": "Central African Republic",
+  "capital": "Bangui",
+  "demonym": "Central African",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Central African Republic",
+   "Bangui",
+   "Central African"
+  ]
+ },
+ {
+  "iso": "TD",
+  "name": "Chad",
+  "capital": "N'Djamena",
+  "demonym": "Chadian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Chad",
+   "N'Djamena",
+   "Chadian",
+   "Ndjamena"
+  ]
+ },
+ {
+  "iso": "CL",
+  "name": "Chile",
+  "capital": "Santiago",
+  "demonym": "Chilean",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Chile",
+   "Santiago",
+   "Chilean"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "CL",
+   "ceid": "CL:es"
+  }
+ },
+ {
+  "iso": "CN",
+  "name": "China",
+  "capital": "Beijing",
+  "demonym": "Chinese",
+  "bloc": "easia",
+  "region": "Asia",
+  "terms": [
+   "China",
+   "Beijing",
+   "Chinese",
+   "Shanghai",
+   "Xinjiang",
+   "Hong Kong",
+   "Xi Jinping"
+  ],
+  "edition": {
+   "hl": "zh-CN",
+   "gl": "CN",
+   "ceid": "CN:zh-Hans"
+  }
+ },
+ {
+  "iso": "CO",
+  "name": "Colombia",
+  "capital": "Bogota",
+  "demonym": "Colombian",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Colombia",
+   "Bogota",
+   "Colombian",
+   "Bogotá",
+   "Petro"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "CO",
+   "ceid": "CO:es"
+  }
+ },
+ {
+  "iso": "KM",
+  "name": "Comoros",
+  "capital": "Moroni",
+  "demonym": "Comorian",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Comoros",
+   "Moroni",
+   "Comorian"
+  ]
+ },
+ {
+  "iso": "CR",
+  "name": "Costa Rica",
+  "capital": "San Jose",
+  "demonym": "Costa Rican",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Costa Rica",
+   "San Jose",
+   "Costa Rican",
+   "San José"
+  ]
+ },
+ {
+  "iso": "HR",
+  "name": "Croatia",
+  "capital": "Zagreb",
+  "demonym": "Croatian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Croatia",
+   "Zagreb",
+   "Croatian"
+  ],
+  "edition": {
+   "hl": "hr",
+   "gl": "HR",
+   "ceid": "HR:hr"
+  }
+ },
+ {
+  "iso": "CU",
+  "name": "Cuba",
+  "capital": "Havana",
+  "demonym": "Cuban",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Cuba",
+   "Havana",
+   "Cuban"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "CU",
+   "ceid": "CU:es"
+  }
+ },
+ {
+  "iso": "CY",
+  "name": "Cyprus",
+  "capital": "Nicosia",
+  "demonym": "Cypriot",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Cyprus",
+   "Nicosia",
+   "Cypriot"
+  ]
+ },
+ {
+  "iso": "CZ",
+  "name": "Czechia",
+  "capital": "Prague",
+  "demonym": "Czech",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Czechia",
+   "Prague",
+   "Czech",
+   "Czech Republic"
+  ],
+  "edition": {
+   "hl": "cs",
+   "gl": "CZ",
+   "ceid": "CZ:cs"
+  }
+ },
+ {
+  "iso": "CD",
+  "name": "DR Congo",
+  "capital": "Kinshasa",
+  "demonym": "Congolese",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "DR Congo",
+   "Kinshasa",
+   "Congolese",
+   "DRC",
+   "Democratic Republic of the Congo",
+   "Goma",
+   "Kivu",
+   "M23"
+  ]
+ },
+ {
+  "iso": "DK",
+  "name": "Denmark",
+  "capital": "Copenhagen",
+  "demonym": "Danish",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Denmark",
+   "Copenhagen",
+   "Danish",
+   "Greenland",
+   "Faroe"
+  ],
+  "edition": {
+   "hl": "da",
+   "gl": "DK",
+   "ceid": "DK:da"
+  }
+ },
+ {
+  "iso": "DJ",
+  "name": "Djibouti",
+  "capital": "Djibouti",
+  "demonym": "Djiboutian",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Djibouti",
+   "Djiboutian"
+  ]
+ },
+ {
+  "iso": "DM",
+  "name": "Dominica",
+  "capital": "Roseau",
+  "demonym": "Dominican",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Dominica",
+   "Roseau",
+   "Dominican"
+  ]
+ },
+ {
+  "iso": "DO",
+  "name": "Dominican Republic",
+  "capital": "Santo Domingo",
+  "demonym": "Dominican Republic",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Dominican Republic",
+   "Santo Domingo"
+  ]
+ },
+ {
+  "iso": "EC",
+  "name": "Ecuador",
+  "capital": "Quito",
+  "demonym": "Ecuadorian",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Ecuador",
+   "Quito",
+   "Ecuadorian",
+   "Guayaquil",
+   "Noboa"
+  ]
+ },
+ {
+  "iso": "EG",
+  "name": "Egypt",
+  "capital": "Cairo",
+  "demonym": "Egyptian",
+  "bloc": "africa_n",
+  "region": "Africa",
+  "terms": [
+   "Egypt",
+   "Cairo",
+   "Egyptian",
+   "Sisi"
+  ],
+  "edition": {
+   "hl": "ar",
+   "gl": "EG",
+   "ceid": "EG:ar"
+  }
+ },
+ {
+  "iso": "SV",
+  "name": "El Salvador",
+  "capital": "San Salvador",
+  "demonym": "Salvadoran",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "El Salvador",
+   "San Salvador",
+   "Salvadoran",
+   "Bukele"
+  ]
+ },
+ {
+  "iso": "GQ",
+  "name": "Equatorial Guinea",
+  "capital": "Malabo",
+  "demonym": "Equatoguinean",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Equatorial Guinea",
+   "Malabo",
+   "Equatoguinean"
+  ]
+ },
+ {
+  "iso": "ER",
+  "name": "Eritrea",
+  "capital": "Asmara",
+  "demonym": "Eritrean",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Eritrea",
+   "Asmara",
+   "Eritrean"
+  ]
+ },
+ {
+  "iso": "EE",
+  "name": "Estonia",
+  "capital": "Tallinn",
+  "demonym": "Estonian",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Estonia",
+   "Tallinn",
+   "Estonian"
+  ],
+  "edition": {
+   "hl": "et",
+   "gl": "EE",
+   "ceid": "EE:et"
+  }
+ },
+ {
+  "iso": "SZ",
+  "name": "Eswatini",
+  "capital": "Mbabane",
+  "demonym": "Swazi",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Eswatini",
+   "Mbabane",
+   "Swazi",
+   "Swaziland"
+  ]
+ },
+ {
+  "iso": "ET",
+  "name": "Ethiopia",
+  "capital": "Addis Ababa",
+  "demonym": "Ethiopian",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Ethiopia",
+   "Addis Ababa",
+   "Ethiopian",
+   "Tigray",
+   "Amhara",
+   "Oromia"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "ET",
+   "ceid": "ET:en"
+  }
+ },
+ {
+  "iso": "FJ",
+  "name": "Fiji",
+  "capital": "Suva",
+  "demonym": "Fijian",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Fiji",
+   "Suva",
+   "Fijian"
+  ]
+ },
+ {
+  "iso": "FI",
+  "name": "Finland",
+  "capital": "Helsinki",
+  "demonym": "Finnish",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Finland",
+   "Helsinki",
+   "Finnish"
+  ],
+  "edition": {
+   "hl": "fi",
+   "gl": "FI",
+   "ceid": "FI:fi"
+  }
+ },
+ {
+  "iso": "FR",
+  "name": "France",
+  "capital": "Paris",
+  "demonym": "French",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "France",
+   "Paris",
+   "French",
+   "Macron"
+  ],
+  "edition": {
+   "hl": "fr",
+   "gl": "FR",
+   "ceid": "FR:fr"
+  }
+ },
+ {
+  "iso": "GA",
+  "name": "Gabon",
+  "capital": "Libreville",
+  "demonym": "Gabonese",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Gabon",
+   "Libreville",
+   "Gabonese"
+  ]
+ },
+ {
+  "iso": "GM",
+  "name": "Gambia",
+  "capital": "Banjul",
+  "demonym": "Gambian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Gambia",
+   "Banjul",
+   "Gambian"
+  ]
+ },
+ {
+  "iso": "GE",
+  "name": "Georgia",
+  "capital": "Tbilisi",
+  "demonym": "Georgian",
+  "bloc": "caucasus",
+  "region": "Asia",
+  "terms": [
+   "Georgia",
+   "Tbilisi",
+   "Georgian",
+   "Abkhazia",
+   "South Ossetia",
+   "Georgian Dream"
+  ]
+ },
+ {
+  "iso": "DE",
+  "name": "Germany",
+  "capital": "Berlin",
+  "demonym": "German",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Germany",
+   "Berlin",
+   "German",
+   "Merz",
+   "Bundestag"
+  ],
+  "edition": {
+   "hl": "de",
+   "gl": "DE",
+   "ceid": "DE:de"
+  }
+ },
+ {
+  "iso": "GH",
+  "name": "Ghana",
+  "capital": "Accra",
+  "demonym": "Ghanaian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Ghana",
+   "Accra",
+   "Ghanaian"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "GH",
+   "ceid": "GH:en"
+  }
+ },
+ {
+  "iso": "GR",
+  "name": "Greece",
+  "capital": "Athens",
+  "demonym": "Greek",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Greece",
+   "Athens",
+   "Greek"
+  ],
+  "edition": {
+   "hl": "el",
+   "gl": "GR",
+   "ceid": "GR:el"
+  }
+ },
+ {
+  "iso": "GD",
+  "name": "Grenada",
+  "capital": "St George's",
+  "demonym": "Grenadian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Grenada",
+   "St George's",
+   "Grenadian"
+  ]
+ },
+ {
+  "iso": "GT",
+  "name": "Guatemala",
+  "capital": "Guatemala City",
+  "demonym": "Guatemalan",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Guatemala",
+   "Guatemala City",
+   "Guatemalan"
+  ]
+ },
+ {
+  "iso": "GN",
+  "name": "Guinea",
+  "capital": "Conakry",
+  "demonym": "Guinean",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Guinea",
+   "Conakry",
+   "Guinean"
+  ]
+ },
+ {
+  "iso": "GW",
+  "name": "Guinea-Bissau",
+  "capital": "Bissau",
+  "demonym": "Bissau-Guinean",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Guinea-Bissau",
+   "Bissau",
+   "Bissau-Guinean"
+  ]
+ },
+ {
+  "iso": "GY",
+  "name": "Guyana",
+  "capital": "Georgetown",
+  "demonym": "Guyanese",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Guyana",
+   "Georgetown",
+   "Guyanese",
+   "Essequibo"
+  ]
+ },
+ {
+  "iso": "HT",
+  "name": "Haiti",
+  "capital": "Port-au-Prince",
+  "demonym": "Haitian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Haiti",
+   "Port-au-Prince",
+   "Haitian"
+  ]
+ },
+ {
+  "iso": "HN",
+  "name": "Honduras",
+  "capital": "Tegucigalpa",
+  "demonym": "Honduran",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Honduras",
+   "Tegucigalpa",
+   "Honduran"
+  ]
+ },
+ {
+  "iso": "HU",
+  "name": "Hungary",
+  "capital": "Budapest",
+  "demonym": "Hungarian",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Hungary",
+   "Budapest",
+   "Hungarian",
+   "Orban",
+   "Orbán"
+  ],
+  "edition": {
+   "hl": "hu",
+   "gl": "HU",
+   "ceid": "HU:hu"
+  }
+ },
+ {
+  "iso": "IS",
+  "name": "Iceland",
+  "capital": "Reykjavik",
+  "demonym": "Icelandic",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Iceland",
+   "Reykjavik",
+   "Icelandic"
+  ]
+ },
+ {
+  "iso": "IN",
+  "name": "India",
+  "capital": "New Delhi",
+  "demonym": "Indian",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "India",
+   "New Delhi",
+   "Indian",
+   "Delhi",
+   "Mumbai",
+   "Kashmir",
+   "Modi"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "IN",
+   "ceid": "IN:en"
+  }
+ },
+ {
+  "iso": "ID",
+  "name": "Indonesia",
+  "capital": "Jakarta",
+  "demonym": "Indonesian",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Indonesia",
+   "Jakarta",
+   "Indonesian",
+   "Papua",
+   "Prabowo"
+  ],
+  "edition": {
+   "hl": "id",
+   "gl": "ID",
+   "ceid": "ID:id"
+  }
+ },
+ {
+  "iso": "IR",
+  "name": "Iran",
+  "capital": "Tehran",
+  "demonym": "Iranian",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Iran",
+   "Tehran",
+   "Iranian",
+   "IRGC",
+   "Khamenei"
+  ]
+ },
+ {
+  "iso": "IQ",
+  "name": "Iraq",
+  "capital": "Baghdad",
+  "demonym": "Iraqi",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Iraq",
+   "Baghdad",
+   "Iraqi",
+   "Kurdistan",
+   "Erbil",
+   "Mosul"
+  ]
+ },
+ {
+  "iso": "IE",
+  "name": "Ireland",
+  "capital": "Dublin",
+  "demonym": "Irish",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Ireland",
+   "Dublin",
+   "Irish"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "IE",
+   "ceid": "IE:en"
+  }
+ },
+ {
+  "iso": "IL",
+  "name": "Israel",
+  "capital": "Jerusalem",
+  "demonym": "Israeli",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Israel",
+   "Jerusalem",
+   "Israeli",
+   "Tel Aviv",
+   "Netanyahu",
+   "IDF"
+  ],
+  "edition": {
+   "hl": "he",
+   "gl": "IL",
+   "ceid": "IL:he"
+  }
+ },
+ {
+  "iso": "IT",
+  "name": "Italy",
+  "capital": "Rome",
+  "demonym": "Italian",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Italy",
+   "Rome",
+   "Italian",
+   "Meloni"
+  ],
+  "edition": {
+   "hl": "it",
+   "gl": "IT",
+   "ceid": "IT:it"
+  }
+ },
+ {
+  "iso": "CI",
+  "name": "Ivory Coast",
+  "capital": "Yamoussoukro",
+  "demonym": "Ivorian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Ivory Coast",
+   "Yamoussoukro",
+   "Ivorian",
+   "Côte d'Ivoire",
+   "Cote d'Ivoire",
+   "Abidjan"
+  ],
+  "edition": {
+   "hl": "fr",
+   "gl": "CI",
+   "ceid": "CI:fr"
+  }
+ },
+ {
+  "iso": "JM",
+  "name": "Jamaica",
+  "capital": "Kingston",
+  "demonym": "Jamaican",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Jamaica",
+   "Kingston",
+   "Jamaican"
+  ]
+ },
+ {
+  "iso": "JP",
+  "name": "Japan",
+  "capital": "Tokyo",
+  "demonym": "Japanese",
+  "bloc": "easia",
+  "region": "Asia",
+  "terms": [
+   "Japan",
+   "Tokyo",
+   "Japanese",
+   "Osaka"
+  ],
+  "edition": {
+   "hl": "ja",
+   "gl": "JP",
+   "ceid": "JP:ja"
+  }
+ },
+ {
+  "iso": "JO",
+  "name": "Jordan",
+  "capital": "Amman",
+  "demonym": "Jordanian",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Jordan",
+   "Amman",
+   "Jordanian"
+  ]
+ },
+ {
+  "iso": "KZ",
+  "name": "Kazakhstan",
+  "capital": "Astana",
+  "demonym": "Kazakh",
+  "bloc": "casia",
+  "region": "Asia",
+  "terms": [
+   "Kazakhstan",
+   "Astana",
+   "Kazakh",
+   "Almaty",
+   "Tokayev"
+  ],
+  "edition": {
+   "hl": "ru",
+   "gl": "KZ",
+   "ceid": "KZ:ru"
+  }
+ },
+ {
+  "iso": "KE",
+  "name": "Kenya",
+  "capital": "Nairobi",
+  "demonym": "Kenyan",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Kenya",
+   "Nairobi",
+   "Kenyan",
+   "Ruto"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "KE",
+   "ceid": "KE:en"
+  }
+ },
+ {
+  "iso": "KI",
+  "name": "Kiribati",
+  "capital": "Tarawa",
+  "demonym": "I-Kiribati",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Kiribati",
+   "Tarawa",
+   "I-Kiribati"
+  ]
+ },
+ {
+  "iso": "XK",
+  "name": "Kosovo",
+  "capital": "Pristina",
+  "demonym": "Kosovar",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Kosovo",
+   "Pristina",
+   "Kosovar",
+   "Kosovan",
+   "Prishtina"
+  ]
+ },
+ {
+  "iso": "KW",
+  "name": "Kuwait",
+  "capital": "Kuwait City",
+  "demonym": "Kuwaiti",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Kuwait",
+   "Kuwait City",
+   "Kuwaiti"
+  ]
+ },
+ {
+  "iso": "KG",
+  "name": "Kyrgyzstan",
+  "capital": "Bishkek",
+  "demonym": "Kyrgyz",
+  "bloc": "casia",
+  "region": "Asia",
+  "terms": [
+   "Kyrgyzstan",
+   "Bishkek",
+   "Kyrgyz"
+  ]
+ },
+ {
+  "iso": "LA",
+  "name": "Laos",
+  "capital": "Vientiane",
+  "demonym": "Laotian",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Laos",
+   "Vientiane",
+   "Laotian",
+   "Lao PDR"
+  ]
+ },
+ {
+  "iso": "LV",
+  "name": "Latvia",
+  "capital": "Riga",
+  "demonym": "Latvian",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Latvia",
+   "Riga",
+   "Latvian"
+  ],
+  "edition": {
+   "hl": "lv",
+   "gl": "LV",
+   "ceid": "LV:lv"
+  }
+ },
+ {
+  "iso": "LB",
+  "name": "Lebanon",
+  "capital": "Beirut",
+  "demonym": "Lebanese",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Lebanon",
+   "Beirut",
+   "Lebanese",
+   "Hezbollah"
+  ],
+  "edition": {
+   "hl": "ar",
+   "gl": "LB",
+   "ceid": "LB:ar"
+  }
+ },
+ {
+  "iso": "LS",
+  "name": "Lesotho",
+  "capital": "Maseru",
+  "demonym": "Basotho",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Lesotho",
+   "Maseru",
+   "Basotho"
+  ]
+ },
+ {
+  "iso": "LR",
+  "name": "Liberia",
+  "capital": "Monrovia",
+  "demonym": "Liberian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Liberia",
+   "Monrovia",
+   "Liberian"
+  ]
+ },
+ {
+  "iso": "LY",
+  "name": "Libya",
+  "capital": "Tripoli",
+  "demonym": "Libyan",
+  "bloc": "africa_n",
+  "region": "Africa",
+  "terms": [
+   "Libya",
+   "Tripoli",
+   "Libyan",
+   "Benghazi",
+   "Haftar"
+  ]
+ },
+ {
+  "iso": "LI",
+  "name": "Liechtenstein",
+  "capital": "Vaduz",
+  "demonym": "Liechtenstein",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Liechtenstein",
+   "Vaduz"
+  ]
+ },
+ {
+  "iso": "LT",
+  "name": "Lithuania",
+  "capital": "Vilnius",
+  "demonym": "Lithuanian",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Lithuania",
+   "Vilnius",
+   "Lithuanian"
+  ],
+  "edition": {
+   "hl": "lt",
+   "gl": "LT",
+   "ceid": "LT:lt"
+  }
+ },
+ {
+  "iso": "LU",
+  "name": "Luxembourg",
+  "capital": "Luxembourg City",
+  "demonym": "Luxembourgish",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Luxembourg",
+   "Luxembourg City",
+   "Luxembourgish"
+  ]
+ },
+ {
+  "iso": "MG",
+  "name": "Madagascar",
+  "capital": "Antananarivo",
+  "demonym": "Malagasy",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Madagascar",
+   "Antananarivo",
+   "Malagasy"
+  ]
+ },
+ {
+  "iso": "MW",
+  "name": "Malawi",
+  "capital": "Lilongwe",
+  "demonym": "Malawian",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Malawi",
+   "Lilongwe",
+   "Malawian"
+  ]
+ },
+ {
+  "iso": "MY",
+  "name": "Malaysia",
+  "capital": "Kuala Lumpur",
+  "demonym": "Malaysian",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Malaysia",
+   "Kuala Lumpur",
+   "Malaysian",
+   "Anwar"
+  ],
+  "edition": {
+   "hl": "ms",
+   "gl": "MY",
+   "ceid": "MY:ms"
+  }
+ },
+ {
+  "iso": "MV",
+  "name": "Maldives",
+  "capital": "Male",
+  "demonym": "Maldivian",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Maldives",
+   "Male",
+   "Maldivian",
+   "Malé"
+  ]
+ },
+ {
+  "iso": "ML",
+  "name": "Mali",
+  "capital": "Bamako",
+  "demonym": "Malian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Mali",
+   "Bamako",
+   "Malian",
+   "Azawad"
+  ]
+ },
+ {
+  "iso": "MT",
+  "name": "Malta",
+  "capital": "Valletta",
+  "demonym": "Maltese",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Malta",
+   "Valletta",
+   "Maltese"
+  ]
+ },
+ {
+  "iso": "MH",
+  "name": "Marshall Islands",
+  "capital": "Majuro",
+  "demonym": "Marshallese",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Marshall Islands",
+   "Majuro",
+   "Marshallese"
+  ]
+ },
+ {
+  "iso": "MR",
+  "name": "Mauritania",
+  "capital": "Nouakchott",
+  "demonym": "Mauritanian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Mauritania",
+   "Nouakchott",
+   "Mauritanian"
+  ]
+ },
+ {
+  "iso": "MU",
+  "name": "Mauritius",
+  "capital": "Port Louis",
+  "demonym": "Mauritian",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Mauritius",
+   "Port Louis",
+   "Mauritian"
+  ]
+ },
+ {
+  "iso": "MX",
+  "name": "Mexico",
+  "capital": "Mexico City",
+  "demonym": "Mexican",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Mexico",
+   "Mexico City",
+   "Mexican",
+   "Sheinbaum",
+   "Sinaloa"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "MX",
+   "ceid": "MX:es"
+  }
+ },
+ {
+  "iso": "FM",
+  "name": "Micronesia",
+  "capital": "Palikir",
+  "demonym": "Micronesian",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Micronesia",
+   "Palikir",
+   "Micronesian",
+   "Federated States of Micronesia",
+   "Pohnpei",
+   "Chuuk"
+  ]
+ },
+ {
+  "iso": "MD",
+  "name": "Moldova",
+  "capital": "Chisinau",
+  "demonym": "Moldovan",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Moldova",
+   "Chisinau",
+   "Moldovan",
+   "Transnistria",
+   "Sandu"
+  ]
+ },
+ {
+  "iso": "MC",
+  "name": "Monaco",
+  "capital": "Monaco",
+  "demonym": "Monegasque",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Monaco",
+   "Monegasque"
+  ]
+ },
+ {
+  "iso": "MN",
+  "name": "Mongolia",
+  "capital": "Ulaanbaatar",
+  "demonym": "Mongolian",
+  "bloc": "easia",
+  "region": "Asia",
+  "terms": [
+   "Mongolia",
+   "Ulaanbaatar",
+   "Mongolian"
+  ]
+ },
+ {
+  "iso": "ME",
+  "name": "Montenegro",
+  "capital": "Podgorica",
+  "demonym": "Montenegrin",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Montenegro",
+   "Podgorica",
+   "Montenegrin"
+  ]
+ },
+ {
+  "iso": "MA",
+  "name": "Morocco",
+  "capital": "Rabat",
+  "demonym": "Moroccan",
+  "bloc": "africa_n",
+  "region": "Africa",
+  "terms": [
+   "Morocco",
+   "Rabat",
+   "Moroccan",
+   "Casablanca",
+   "Western Sahara"
+  ],
+  "edition": {
+   "hl": "ar",
+   "gl": "MA",
+   "ceid": "MA:ar"
+  }
+ },
+ {
+  "iso": "MZ",
+  "name": "Mozambique",
+  "capital": "Maputo",
+  "demonym": "Mozambican",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Mozambique",
+   "Maputo",
+   "Mozambican",
+   "Cabo Delgado"
+  ]
+ },
+ {
+  "iso": "MM",
+  "name": "Myanmar",
+  "capital": "Naypyidaw",
+  "demonym": "Burmese",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Myanmar",
+   "Naypyidaw",
+   "Burmese",
+   "Burma",
+   "Yangon",
+   "Rakhine",
+   "Arakan"
+  ]
+ },
+ {
+  "iso": "NA",
+  "name": "Namibia",
+  "capital": "Windhoek",
+  "demonym": "Namibian",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Namibia",
+   "Windhoek",
+   "Namibian"
+  ]
+ },
+ {
+  "iso": "NR",
+  "name": "Nauru",
+  "capital": "Yaren",
+  "demonym": "Nauruan",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Nauru",
+   "Yaren",
+   "Nauruan",
+   "Naoero"
+  ]
+ },
+ {
+  "iso": "NP",
+  "name": "Nepal",
+  "capital": "Kathmandu",
+  "demonym": "Nepali",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Nepal",
+   "Kathmandu",
+   "Nepali",
+   "Nepalese"
+  ]
+ },
+ {
+  "iso": "NL",
+  "name": "Netherlands",
+  "capital": "Amsterdam",
+  "demonym": "Dutch",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Netherlands",
+   "Amsterdam",
+   "Dutch",
+   "The Hague"
+  ],
+  "edition": {
+   "hl": "nl",
+   "gl": "NL",
+   "ceid": "NL:nl"
+  }
+ },
+ {
+  "iso": "NZ",
+  "name": "New Zealand",
+  "capital": "Wellington",
+  "demonym": "New Zealander",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "New Zealand",
+   "Wellington",
+   "New Zealander",
+   "Aotearoa",
+   "Auckland",
+   "Luxon"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "NZ",
+   "ceid": "NZ:en"
+  }
+ },
+ {
+  "iso": "NI",
+  "name": "Nicaragua",
+  "capital": "Managua",
+  "demonym": "Nicaraguan",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Nicaragua",
+   "Managua",
+   "Nicaraguan",
+   "Ortega"
+  ]
+ },
+ {
+  "iso": "NE",
+  "name": "Niger",
+  "capital": "Niamey",
+  "demonym": "Nigerien",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Niger",
+   "Niamey",
+   "Nigerien"
+  ]
+ },
+ {
+  "iso": "NG",
+  "name": "Nigeria",
+  "capital": "Abuja",
+  "demonym": "Nigerian",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Nigeria",
+   "Abuja",
+   "Nigerian",
+   "Lagos",
+   "Boko Haram",
+   "Tinubu"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "NG",
+   "ceid": "NG:en"
+  }
+ },
+ {
+  "iso": "KP",
+  "name": "North Korea",
+  "capital": "Pyongyang",
+  "demonym": "North Korean",
+  "bloc": "easia",
+  "region": "Asia",
+  "terms": [
+   "North Korea",
+   "Pyongyang",
+   "North Korean",
+   "DPRK",
+   "Kim Jong Un"
+  ]
+ },
+ {
+  "iso": "MK",
+  "name": "North Macedonia",
+  "capital": "Skopje",
+  "demonym": "Macedonian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "North Macedonia",
+   "Skopje",
+   "Macedonian"
+  ]
+ },
+ {
+  "iso": "NO",
+  "name": "Norway",
+  "capital": "Oslo",
+  "demonym": "Norwegian",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Norway",
+   "Oslo",
+   "Norwegian"
+  ],
+  "edition": {
+   "hl": "no",
+   "gl": "NO",
+   "ceid": "NO:no"
+  }
+ },
+ {
+  "iso": "OM",
+  "name": "Oman",
+  "capital": "Muscat",
+  "demonym": "Omani",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Oman",
+   "Muscat",
+   "Omani"
+  ]
+ },
+ {
+  "iso": "PK",
+  "name": "Pakistan",
+  "capital": "Islamabad",
+  "demonym": "Pakistani",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Pakistan",
+   "Islamabad",
+   "Pakistani",
+   "Karachi",
+   "Lahore",
+   "Balochistan"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "PK",
+   "ceid": "PK:en"
+  }
+ },
+ {
+  "iso": "PW",
+  "name": "Palau",
+  "capital": "Ngerulmud",
+  "demonym": "Palauan",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Palau",
+   "Ngerulmud",
+   "Palauan",
+   "Koror"
+  ]
+ },
+ {
+  "iso": "PS",
+  "name": "Palestine",
+  "capital": "Ramallah",
+  "demonym": "Palestinian",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Palestine",
+   "Ramallah",
+   "Palestinian",
+   "Gaza",
+   "West Bank",
+   "Hamas"
+  ]
+ },
+ {
+  "iso": "PA",
+  "name": "Panama",
+  "capital": "Panama City",
+  "demonym": "Panamanian",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Panama",
+   "Panama City",
+   "Panamanian",
+   "Panama Canal"
+  ]
+ },
+ {
+  "iso": "PG",
+  "name": "Papua New Guinea",
+  "capital": "Port Moresby",
+  "demonym": "Papua New Guinean",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Papua New Guinea",
+   "Port Moresby",
+   "Papua New Guinean",
+   "PNG",
+   "Bougainville"
+  ]
+ },
+ {
+  "iso": "PY",
+  "name": "Paraguay",
+  "capital": "Asuncion",
+  "demonym": "Paraguayan",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Paraguay",
+   "Asuncion",
+   "Paraguayan",
+   "Asunción"
+  ]
+ },
+ {
+  "iso": "PE",
+  "name": "Peru",
+  "capital": "Lima",
+  "demonym": "Peruvian",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Peru",
+   "Lima",
+   "Peruvian"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "PE",
+   "ceid": "PE:es"
+  }
+ },
+ {
+  "iso": "PH",
+  "name": "Philippines",
+  "capital": "Manila",
+  "demonym": "Filipino",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Philippines",
+   "Manila",
+   "Filipino",
+   "Philippine",
+   "Marcos"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "PH",
+   "ceid": "PH:en"
+  }
+ },
+ {
+  "iso": "PL",
+  "name": "Poland",
+  "capital": "Warsaw",
+  "demonym": "Polish",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Poland",
+   "Warsaw",
+   "Polish",
+   "Tusk",
+   "Nawrocki"
+  ],
+  "edition": {
+   "hl": "pl",
+   "gl": "PL",
+   "ceid": "PL:pl"
+  }
+ },
+ {
+  "iso": "PT",
+  "name": "Portugal",
+  "capital": "Lisbon",
+  "demonym": "Portuguese",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Portugal",
+   "Lisbon",
+   "Portuguese"
+  ],
+  "edition": {
+   "hl": "pt",
+   "gl": "PT",
+   "ceid": "PT-PT:pt"
+  }
+ },
+ {
+  "iso": "QA",
+  "name": "Qatar",
+  "capital": "Doha",
+  "demonym": "Qatari",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Qatar",
+   "Doha",
+   "Qatari"
+  ]
+ },
+ {
+  "iso": "CG",
+  "name": "Republic of the Congo",
+  "capital": "Brazzaville",
+  "demonym": "Congolese",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Republic of the Congo",
+   "Brazzaville",
+   "Congolese",
+   "Congo-Brazzaville"
+  ]
+ },
+ {
+  "iso": "RO",
+  "name": "Romania",
+  "capital": "Bucharest",
+  "demonym": "Romanian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Romania",
+   "Bucharest",
+   "Romanian"
+  ],
+  "edition": {
+   "hl": "ro",
+   "gl": "RO",
+   "ceid": "RO:ro"
+  }
+ },
+ {
+  "iso": "RU",
+  "name": "Russia",
+  "capital": "Moscow",
+  "demonym": "Russian",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Russia",
+   "Moscow",
+   "Russian",
+   "Kremlin",
+   "Putin"
+  ],
+  "edition": {
+   "hl": "ru",
+   "gl": "RU",
+   "ceid": "RU:ru"
+  }
+ },
+ {
+  "iso": "RW",
+  "name": "Rwanda",
+  "capital": "Kigali",
+  "demonym": "Rwandan",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Rwanda",
+   "Kigali",
+   "Rwandan",
+   "Kagame"
+  ]
+ },
+ {
+  "iso": "KN",
+  "name": "Saint Kitts and Nevis",
+  "capital": "Basseterre",
+  "demonym": "Kittitian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Saint Kitts and Nevis",
+   "Basseterre",
+   "Kittitian",
+   "St Kitts",
+   "St. Kitts"
+  ]
+ },
+ {
+  "iso": "LC",
+  "name": "Saint Lucia",
+  "capital": "Castries",
+  "demonym": "Saint Lucian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Saint Lucia",
+   "Castries",
+   "Saint Lucian",
+   "St Lucia",
+   "St. Lucia"
+  ]
+ },
+ {
+  "iso": "VC",
+  "name": "Saint Vincent and the Grenadines",
+  "capital": "Kingstown",
+  "demonym": "Vincentian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Saint Vincent and the Grenadines",
+   "Kingstown",
+   "Vincentian",
+   "St Vincent",
+   "St. Vincent"
+  ]
+ },
+ {
+  "iso": "WS",
+  "name": "Samoa",
+  "capital": "Apia",
+  "demonym": "Samoan",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Samoa",
+   "Apia",
+   "Samoan"
+  ]
+ },
+ {
+  "iso": "SM",
+  "name": "San Marino",
+  "capital": "San Marino",
+  "demonym": "Sammarinese",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "San Marino",
+   "Sammarinese"
+  ]
+ },
+ {
+  "iso": "ST",
+  "name": "Sao Tome and Principe",
+  "capital": "Sao Tome",
+  "demonym": "Santomean",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Sao Tome and Principe",
+   "Sao Tome",
+   "Santomean",
+   "São Tomé"
+  ]
+ },
+ {
+  "iso": "SA",
+  "name": "Saudi Arabia",
+  "capital": "Riyadh",
+  "demonym": "Saudi",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Saudi Arabia",
+   "Riyadh",
+   "Saudi",
+   "Jeddah",
+   "MBS",
+   "bin Salman"
+  ],
+  "edition": {
+   "hl": "ar",
+   "gl": "SA",
+   "ceid": "SA:ar"
+  }
+ },
+ {
+  "iso": "SN",
+  "name": "Senegal",
+  "capital": "Dakar",
+  "demonym": "Senegalese",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Senegal",
+   "Dakar",
+   "Senegalese"
+  ],
+  "edition": {
+   "hl": "fr",
+   "gl": "SN",
+   "ceid": "SN:fr"
+  }
+ },
+ {
+  "iso": "RS",
+  "name": "Serbia",
+  "capital": "Belgrade",
+  "demonym": "Serbian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Serbia",
+   "Belgrade",
+   "Serbian",
+   "Vucic",
+   "Vučić"
+  ],
+  "edition": {
+   "hl": "sr",
+   "gl": "RS",
+   "ceid": "RS:sr"
+  }
+ },
+ {
+  "iso": "SC",
+  "name": "Seychelles",
+  "capital": "Victoria",
+  "demonym": "Seychellois",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Seychelles",
+   "Victoria",
+   "Seychellois"
+  ]
+ },
+ {
+  "iso": "SL",
+  "name": "Sierra Leone",
+  "capital": "Freetown",
+  "demonym": "Sierra Leonean",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Sierra Leone",
+   "Freetown",
+   "Sierra Leonean"
+  ]
+ },
+ {
+  "iso": "SG",
+  "name": "Singapore",
+  "capital": "Singapore",
+  "demonym": "Singaporean",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Singapore",
+   "Singaporean"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "SG",
+   "ceid": "SG:en"
+  }
+ },
+ {
+  "iso": "SK",
+  "name": "Slovakia",
+  "capital": "Bratislava",
+  "demonym": "Slovak",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Slovakia",
+   "Bratislava",
+   "Slovak",
+   "Fico"
+  ],
+  "edition": {
+   "hl": "sk",
+   "gl": "SK",
+   "ceid": "SK:sk"
+  }
+ },
+ {
+  "iso": "SI",
+  "name": "Slovenia",
+  "capital": "Ljubljana",
+  "demonym": "Slovenian",
+  "bloc": "balkans",
+  "region": "Europe",
+  "terms": [
+   "Slovenia",
+   "Ljubljana",
+   "Slovenian",
+   "Slovene"
+  ],
+  "edition": {
+   "hl": "sl",
+   "gl": "SI",
+   "ceid": "SI:sl"
+  }
+ },
+ {
+  "iso": "SB",
+  "name": "Solomon Islands",
+  "capital": "Honiara",
+  "demonym": "Solomon Islander",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Solomon Islands",
+   "Honiara",
+   "Solomon Islander"
+  ]
+ },
+ {
+  "iso": "SO",
+  "name": "Somalia",
+  "capital": "Mogadishu",
+  "demonym": "Somali",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Somalia",
+   "Mogadishu",
+   "Somali",
+   "Somaliland",
+   "Puntland",
+   "Al-Shabab"
+  ]
+ },
+ {
+  "iso": "ZA",
+  "name": "South Africa",
+  "capital": "Pretoria",
+  "demonym": "South African",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "South Africa",
+   "Pretoria",
+   "South African",
+   "Johannesburg",
+   "Cape Town",
+   "Ramaphosa"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "ZA",
+   "ceid": "ZA:en"
+  }
+ },
+ {
+  "iso": "KR",
+  "name": "South Korea",
+  "capital": "Seoul",
+  "demonym": "South Korean",
+  "bloc": "easia",
+  "region": "Asia",
+  "terms": [
+   "South Korea",
+   "Seoul",
+   "South Korean"
+  ],
+  "edition": {
+   "hl": "ko",
+   "gl": "KR",
+   "ceid": "KR:ko"
+  }
+ },
+ {
+  "iso": "SS",
+  "name": "South Sudan",
+  "capital": "Juba",
+  "demonym": "South Sudanese",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "South Sudan",
+   "Juba",
+   "South Sudanese"
+  ]
+ },
+ {
+  "iso": "ES",
+  "name": "Spain",
+  "capital": "Madrid",
+  "demonym": "Spanish",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Spain",
+   "Madrid",
+   "Spanish",
+   "Catalonia",
+   "Barcelona",
+   "Sanchez"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "ES",
+   "ceid": "ES:es"
+  }
+ },
+ {
+  "iso": "LK",
+  "name": "Sri Lanka",
+  "capital": "Colombo",
+  "demonym": "Sri Lankan",
+  "bloc": "sasia",
+  "region": "Asia",
+  "terms": [
+   "Sri Lanka",
+   "Colombo",
+   "Sri Lankan",
+   "Dissanayake"
+  ]
+ },
+ {
+  "iso": "SD",
+  "name": "Sudan",
+  "capital": "Khartoum",
+  "demonym": "Sudanese",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Sudan",
+   "Khartoum",
+   "Sudanese",
+   "Darfur",
+   "RSF",
+   "El Fasher"
+  ]
+ },
+ {
+  "iso": "SR",
+  "name": "Suriname",
+  "capital": "Paramaribo",
+  "demonym": "Surinamese",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Suriname",
+   "Paramaribo",
+   "Surinamese"
+  ]
+ },
+ {
+  "iso": "SE",
+  "name": "Sweden",
+  "capital": "Stockholm",
+  "demonym": "Swedish",
+  "bloc": "nordic",
+  "region": "Europe",
+  "terms": [
+   "Sweden",
+   "Stockholm",
+   "Swedish"
+  ],
+  "edition": {
+   "hl": "sv",
+   "gl": "SE",
+   "ceid": "SE:sv"
+  }
+ },
+ {
+  "iso": "CH",
+  "name": "Switzerland",
+  "capital": "Bern",
+  "demonym": "Swiss",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Switzerland",
+   "Bern",
+   "Swiss",
+   "Geneva",
+   "Zurich"
+  ],
+  "edition": {
+   "hl": "de",
+   "gl": "CH",
+   "ceid": "CH:de"
+  }
+ },
+ {
+  "iso": "SY",
+  "name": "Syria",
+  "capital": "Damascus",
+  "demonym": "Syrian",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Syria",
+   "Damascus",
+   "Syrian",
+   "Aleppo",
+   "al-Sharaa"
+  ]
+ },
+ {
+  "iso": "TW",
+  "name": "Taiwan",
+  "capital": "Taipei",
+  "demonym": "Taiwanese",
+  "bloc": "easia",
+  "region": "Asia",
+  "terms": [
+   "Taiwan",
+   "Taipei",
+   "Taiwanese",
+   "Taiwan Strait"
+  ],
+  "edition": {
+   "hl": "zh-TW",
+   "gl": "TW",
+   "ceid": "TW:zh-Hant"
+  }
+ },
+ {
+  "iso": "TJ",
+  "name": "Tajikistan",
+  "capital": "Dushanbe",
+  "demonym": "Tajik",
+  "bloc": "casia",
+  "region": "Asia",
+  "terms": [
+   "Tajikistan",
+   "Dushanbe",
+   "Tajik"
+  ]
+ },
+ {
+  "iso": "TZ",
+  "name": "Tanzania",
+  "capital": "Dodoma",
+  "demonym": "Tanzanian",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Tanzania",
+   "Dodoma",
+   "Tanzanian",
+   "Dar es Salaam",
+   "Zanzibar"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "TZ",
+   "ceid": "TZ:en"
+  }
+ },
+ {
+  "iso": "TH",
+  "name": "Thailand",
+  "capital": "Bangkok",
+  "demonym": "Thai",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Thailand",
+   "Bangkok",
+   "Thai"
+  ],
+  "edition": {
+   "hl": "th",
+   "gl": "TH",
+   "ceid": "TH:th"
+  }
+ },
+ {
+  "iso": "TL",
+  "name": "Timor-Leste",
+  "capital": "Dili",
+  "demonym": "Timorese",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Timor-Leste",
+   "Dili",
+   "Timorese",
+   "East Timor"
+  ]
+ },
+ {
+  "iso": "TG",
+  "name": "Togo",
+  "capital": "Lome",
+  "demonym": "Togolese",
+  "bloc": "africa_w",
+  "region": "Africa",
+  "terms": [
+   "Togo",
+   "Lome",
+   "Togolese",
+   "Lomé"
+  ]
+ },
+ {
+  "iso": "TO",
+  "name": "Tonga",
+  "capital": "Nuku'alofa",
+  "demonym": "Tongan",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Tonga",
+   "Nuku'alofa",
+   "Tongan",
+   "Nukualofa"
+  ]
+ },
+ {
+  "iso": "TT",
+  "name": "Trinidad and Tobago",
+  "capital": "Port of Spain",
+  "demonym": "Trinidadian",
+  "bloc": "caribbean",
+  "region": "Americas",
+  "terms": [
+   "Trinidad and Tobago",
+   "Port of Spain",
+   "Trinidadian",
+   "Trinidad",
+   "Tobago"
+  ]
+ },
+ {
+  "iso": "TN",
+  "name": "Tunisia",
+  "capital": "Tunis",
+  "demonym": "Tunisian",
+  "bloc": "africa_n",
+  "region": "Africa",
+  "terms": [
+   "Tunisia",
+   "Tunis",
+   "Tunisian",
+   "Saied"
+  ]
+ },
+ {
+  "iso": "TR",
+  "name": "Turkiye",
+  "capital": "Ankara",
+  "demonym": "Turkish",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Turkiye",
+   "Ankara",
+   "Turkish",
+   "Turkey",
+   "Türkiye",
+   "Istanbul",
+   "Erdogan"
+  ],
+  "edition": {
+   "hl": "tr",
+   "gl": "TR",
+   "ceid": "TR:tr"
+  }
+ },
+ {
+  "iso": "TM",
+  "name": "Turkmenistan",
+  "capital": "Ashgabat",
+  "demonym": "Turkmen",
+  "bloc": "casia",
+  "region": "Asia",
+  "terms": [
+   "Turkmenistan",
+   "Ashgabat",
+   "Turkmen"
+  ]
+ },
+ {
+  "iso": "TV",
+  "name": "Tuvalu",
+  "capital": "Funafuti",
+  "demonym": "Tuvaluan",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Tuvalu",
+   "Funafuti",
+   "Tuvaluan"
+  ]
+ },
+ {
+  "iso": "UG",
+  "name": "Uganda",
+  "capital": "Kampala",
+  "demonym": "Ugandan",
+  "bloc": "africa_e",
+  "region": "Africa",
+  "terms": [
+   "Uganda",
+   "Kampala",
+   "Ugandan",
+   "Museveni"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "UG",
+   "ceid": "UG:en"
+  }
+ },
+ {
+  "iso": "UA",
+  "name": "Ukraine",
+  "capital": "Kyiv",
+  "demonym": "Ukrainian",
+  "bloc": "europe_e",
+  "region": "Europe",
+  "terms": [
+   "Ukraine",
+   "Kyiv",
+   "Ukrainian",
+   "Kiev",
+   "Odesa",
+   "Kharkiv",
+   "Donbas",
+   "Zelensky",
+   "Zelenskyy"
+  ],
+  "edition": {
+   "hl": "uk",
+   "gl": "UA",
+   "ceid": "UA:uk"
+  }
+ },
+ {
+  "iso": "AE",
+  "name": "United Arab Emirates",
+  "capital": "Abu Dhabi",
+  "demonym": "Emirati",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "United Arab Emirates",
+   "Abu Dhabi",
+   "Emirati",
+   "UAE",
+   "Dubai"
+  ],
+  "edition": {
+   "hl": "ar",
+   "gl": "AE",
+   "ceid": "AE:ar"
+  }
+ },
+ {
+  "iso": "GB",
+  "name": "United Kingdom",
+  "capital": "London",
+  "demonym": "British",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "United Kingdom",
+   "London",
+   "British",
+   "UK",
+   "Britain",
+   "Scotland",
+   "Wales",
+   "Northern Ireland",
+   "Starmer",
+   "Westminster"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "GB",
+   "ceid": "GB:en"
+  }
+ },
+ {
+  "iso": "US",
+  "name": "United States",
+  "capital": "Washington",
+  "demonym": "American",
+  "bloc": "northam",
+  "region": "Americas",
+  "terms": [
+   "United States",
+   "Washington",
+   "American",
+   "U.S.",
+   "USA",
+   "White House",
+   "Trump",
+   "Congress"
+  ],
+  "edition": {
+   "hl": "en",
+   "gl": "US",
+   "ceid": "US:en"
+  }
+ },
+ {
+  "iso": "UY",
+  "name": "Uruguay",
+  "capital": "Montevideo",
+  "demonym": "Uruguayan",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Uruguay",
+   "Montevideo",
+   "Uruguayan"
+  ]
+ },
+ {
+  "iso": "UZ",
+  "name": "Uzbekistan",
+  "capital": "Tashkent",
+  "demonym": "Uzbek",
+  "bloc": "casia",
+  "region": "Asia",
+  "terms": [
+   "Uzbekistan",
+   "Tashkent",
+   "Uzbek",
+   "Mirziyoyev"
+  ]
+ },
+ {
+  "iso": "VU",
+  "name": "Vanuatu",
+  "capital": "Port Vila",
+  "demonym": "Ni-Vanuatu",
+  "bloc": "pacific",
+  "region": "Oceania",
+  "terms": [
+   "Vanuatu",
+   "Port Vila",
+   "Ni-Vanuatu",
+   "Vanuatuan"
+  ]
+ },
+ {
+  "iso": "VA",
+  "name": "Vatican City",
+  "capital": "Vatican City",
+  "demonym": "Vatican",
+  "bloc": "europe_w",
+  "region": "Europe",
+  "terms": [
+   "Vatican City",
+   "Vatican",
+   "Holy See",
+   "Pope Leo"
+  ]
+ },
+ {
+  "iso": "VE",
+  "name": "Venezuela",
+  "capital": "Caracas",
+  "demonym": "Venezuelan",
+  "bloc": "latam",
+  "region": "Americas",
+  "terms": [
+   "Venezuela",
+   "Caracas",
+   "Venezuelan",
+   "Maduro"
+  ],
+  "edition": {
+   "hl": "es",
+   "gl": "VE",
+   "ceid": "VE:es"
+  }
+ },
+ {
+  "iso": "VN",
+  "name": "Vietnam",
+  "capital": "Hanoi",
+  "demonym": "Vietnamese",
+  "bloc": "seasia",
+  "region": "Asia",
+  "terms": [
+   "Vietnam",
+   "Hanoi",
+   "Vietnamese",
+   "Ho Chi Minh City"
+  ],
+  "edition": {
+   "hl": "vi",
+   "gl": "VN",
+   "ceid": "VN:vi"
+  }
+ },
+ {
+  "iso": "YE",
+  "name": "Yemen",
+  "capital": "Sanaa",
+  "demonym": "Yemeni",
+  "bloc": "mena",
+  "region": "Middle East",
+  "terms": [
+   "Yemen",
+   "Sanaa",
+   "Yemeni",
+   "Houthi",
+   "Aden"
+  ]
+ },
+ {
+  "iso": "ZM",
+  "name": "Zambia",
+  "capital": "Lusaka",
+  "demonym": "Zambian",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Zambia",
+   "Lusaka",
+   "Zambian"
+  ]
+ },
+ {
+  "iso": "ZW",
+  "name": "Zimbabwe",
+  "capital": "Harare",
+  "demonym": "Zimbabwean",
+  "bloc": "africa_s",
+  "region": "Africa",
+  "terms": [
+   "Zimbabwe",
+   "Harare",
+   "Zimbabwean",
+   "Mnangagwa"
+  ]
+ }
+]
