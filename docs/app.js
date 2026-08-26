@@ -13,10 +13,17 @@
     });
   };
 
-  function ago(iso) {
-    if (!iso) return "";
+  function hoursAgo(iso) {
+    if (!iso) return Infinity;
     var h = (Date.now() - new Date(iso).getTime()) / 36e5;
-    if (isNaN(h)) return "";
+    return isNaN(h) ? Infinity : h;
+  }
+
+  function isFresh(i) { return hoursAgo(i.pub) <= 24; }
+
+  function ago(iso) {
+    var h = hoursAgo(iso);
+    if (h === Infinity) return "";
     if (h < 1) return "just now";
     if (h < 24) return Math.round(h) + "h ago";
     var d = Math.round(h / 24);
@@ -42,7 +49,7 @@
 
   function matches(c) {
     if (state.region !== "All" && c.region !== state.region) return false;
-    if (state.onlyNews && (!c.items.length || c.stale)) return false;
+    if (state.onlyNews && !c.items.some(isFresh)) return false;
     var q = state.q.trim().toLowerCase();
     if (!q) return true;
     if (c.name.toLowerCase().indexOf(q) > -1) return true;
@@ -66,8 +73,9 @@
 
   function countryHTML(c) {
     var open = !!state.open[c.iso];
-    var n = c.items.length;
-    var lead = n ? c.items[0].title : "no qualifying coverage found";
+    var items = state.onlyNews ? c.items.filter(isFresh) : c.items;
+    var n = items.length;
+    var lead = n ? items[0].title : "no qualifying coverage found";
     var meta = [];
     if (c.stale) meta.push('<span class="tag stale">carried forward</span>');
     meta.push(n ? n + (n === 1 ? " story" : " stories") : "quiet");
@@ -79,7 +87,7 @@
         '<span class="clead">' + esc(lead) + "</span>" +
         '<span class="cmeta">' + meta.join(" ") + "</span>" +
       "</div>" +
-      (n ? '<ul class="stories">' + c.items.map(storyHTML).join("") + "</ul>"
+      (n ? '<ul class="stories">' + items.map(storyHTML).join("") + "</ul>"
          : '<ul class="stories"><li class="none">No story from a trusted, free-to-read ' +
            "source mentioned this country in the period searched.</li></ul>") +
       "</article>";
