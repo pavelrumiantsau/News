@@ -6,6 +6,11 @@ on:
     # Cron on GitHub is best-effort and can lag by a few minutes under load.
     - cron: "10 5 * * *"
   workflow_dispatch:        # lets you trigger a rebuild by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+      - "!docs/news.json"  # the bot itself commits this file; avoid re-triggering on that push
 
 permissions:
   contents: write
@@ -21,16 +26,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
+        if: github.event_name != 'push'
         with:
           python-version: "3.12"
 
       - name: Collect headlines
+        if: github.event_name != 'push'
         run: python3 collect.py --workers 6
 
       - name: Commit refreshed data
+        if: github.event_name != 'push'
         run: |
           git config user.name  "world-desk-bot"
           git config user.email "actions@github.com"
@@ -42,12 +50,12 @@ jobs:
             git push
           fi
 
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: docs
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
     environment:
       name: github-pages
